@@ -1,6 +1,6 @@
 {
   "name": "postcss-whitespace",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "cssnano core extracted to a postcss plugin",
   "main": "lib/index.js",
   "repository": {
